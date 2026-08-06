@@ -317,7 +317,7 @@ export default function Home() {
             >
               PyPI
             </a>
-            . You may self-host the Transtractor from the{" "}
+            . Self-host this website from the{" "}
             <a
               href="https://github.com/transtractor/transtractor-web"
               target="_blank"
