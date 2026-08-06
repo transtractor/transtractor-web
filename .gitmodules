@@ -1,0 +1,3 @@
+[submodule "vendor/transtractor-lib"]
+	path = vendor/transtractor-lib
+	url = https://github.com/transtractor/transtractor-lib.git

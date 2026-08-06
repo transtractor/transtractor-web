@@ -1,0 +1,26 @@
+{
+    "editor.inlayHints.enabled": "offUnlessPressed",
+    "editor.renderWhitespace": "all",
+    "editor.rulers": [
+        88,
+        120
+    ],
+    "cSpell.language": "en-AU",
+    "cSpell.words": [
+        "transtractor"
+    ],
+    "[javascript]": {
+        "editor.tabSize": 2,
+        "editor.detectIndentation": false,
+        "editor.insertSpaces": true,
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.tabSize": 2,
+        "editor.detectIndentation": false,
+        "editor.insertSpaces": true,
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}

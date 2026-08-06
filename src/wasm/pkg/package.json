@@ -1,0 +1,16 @@
+{
+  "name": "transtractor",
+  "type": "module",
+  "version": "0.11.0",
+  "license": "MIT",
+  "files": [
+    "transtractor_bg.wasm",
+    "transtractor.js",
+    "transtractor.d.ts"
+  ],
+  "main": "transtractor.js",
+  "types": "transtractor.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
